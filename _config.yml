@@ -1,0 +1,28 @@
+name: gothenburgmusicacademy.com
+favicon: null
+layout_spectrum: 0.4252013177610934
+typography_spectrum: 0.6343530719168484
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.38375537376850843
+  lightness: 0.31793932477012277
+  saturation: 0.6807951144874096
+  rhythmicContrast: 0.09364427858963609
+purpose: []
